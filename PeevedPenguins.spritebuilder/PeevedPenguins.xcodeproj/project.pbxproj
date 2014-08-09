@@ -39,6 +39,7 @@
 		F237FFB01993060B007AC05B /* Penguin.m in Sources */ = {isa = PBXBuildFile; fileRef = F237FFAF1993060B007AC05B /* Penguin.m */; };
 		F237FFB41993063E007AC05B /* Seal.m in Sources */ = {isa = PBXBuildFile; fileRef = F237FFB31993063E007AC05B /* Seal.m */; };
 		F264A6901993EBDE003F5E4A /* Gameplay.m in Sources */ = {isa = PBXBuildFile; fileRef = F264A68F1993EBDE003F5E4A /* Gameplay.m */; };
+		F265592B1995BC660099AF7B /* WaitingPenguin.m in Sources */ = {isa = PBXBuildFile; fileRef = F265592A1995BC660099AF7B /* WaitingPenguin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -99,6 +100,8 @@
 		F237FFB31993063E007AC05B /* Seal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Seal.m; path = Source/Seal.m; sourceTree = "<group>"; };
 		F264A68E1993EBDE003F5E4A /* Gameplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Gameplay.h; path = Source/Gameplay.h; sourceTree = "<group>"; };
 		F264A68F1993EBDE003F5E4A /* Gameplay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Gameplay.m; path = Source/Gameplay.m; sourceTree = "<group>"; };
+		F26559291995BC660099AF7B /* WaitingPenguin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WaitingPenguin.h; path = Source/WaitingPenguin.h; sourceTree = "<group>"; };
+		F265592A1995BC660099AF7B /* WaitingPenguin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WaitingPenguin.m; path = Source/WaitingPenguin.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +143,8 @@
 				B7378993180767190076A88C /* MainScene.m */,
 				F264A68E1993EBDE003F5E4A /* Gameplay.h */,
 				F264A68F1993EBDE003F5E4A /* Gameplay.m */,
+				F26559291995BC660099AF7B /* WaitingPenguin.h */,
+				F265592A1995BC660099AF7B /* WaitingPenguin.m */,
 				F237FFAE1993060B007AC05B /* Penguin.h */,
 				F237FFAF1993060B007AC05B /* Penguin.m */,
 				F237FFB21993063E007AC05B /* Seal.h */,
@@ -357,6 +362,7 @@
 			files = (
 				F237FFB41993063E007AC05B /* Seal.m in Sources */,
 				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
+				F265592B1995BC660099AF7B /* WaitingPenguin.m in Sources */,
 				B7378994180767190076A88C /* MainScene.m in Sources */,
 				F237FFB01993060B007AC05B /* Penguin.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
